@@ -1,4 +1,4 @@
-# Alfonso Duarte - Project Manager Specialist :briefcase:
+# Alfonso Duarte - Finance Student at Florida International University  :briefcase:
 
 ## Experience :computer:
 
