@@ -1,16 +1,17 @@
-### Hi there 👋
+# Alfonso Duarte - Project Manager Specialist :briefcase:
 
-<!--
-**ajduarte03/ajduarte03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience :computer:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Fun Fact :tada:
+
+
+
+## Projects :rocket:
+
+
+
+## Connect with Me :handshake:
+
+Here is my [LinkedIn] if you want to connect :smiley:
